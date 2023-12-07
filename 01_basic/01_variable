@@ -1,0 +1,7 @@
+const accountId="123144"
+let accountEmail="tahi@gamail.com"
+var accountPassword="324412"
+accountCity="Delhi"
+
+//accountId=2    //not allowed
+console.log(accountId);
